@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrKriger
 - 👀 I’m interested in science & technology
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me hardiktusksp@gmail.com
 
 <!---
